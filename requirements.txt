@@ -21,3 +21,4 @@ xgboost
 catboost
 lightgbm
 pyyaml
+tslearn
