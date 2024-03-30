@@ -20,3 +20,4 @@ statsmodels
 xgboost
 catboost
 lightgbm
+pyyaml
