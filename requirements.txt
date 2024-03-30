@@ -22,3 +22,4 @@ catboost
 lightgbm
 pyyaml
 tslearn
+shap
