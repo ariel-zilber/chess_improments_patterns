@@ -23,3 +23,5 @@ lightgbm
 pyyaml
 tslearn
 shap
+stockfish
+tensorflow==2.2
