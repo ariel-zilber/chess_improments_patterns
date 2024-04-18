@@ -25,3 +25,4 @@ tslearn
 shap
 stockfish
 tensorflow==2.2
+python-chess
