@@ -72,4 +72,17 @@ The project is structured around 3 notebooks
 
  [3. enhancent with board data](notebooks/P1_04_moves.ipynb) - in the section we attempt to improve result from previous section using features extract from board moves 
 
- 
+ ## Datasets
+
+This project created 2 datasets by crawling the free independed chess webset and the lichess website.
+
+### FICS Blitz games
+contains chess games from blitz chess collected from 2018-2020
+
+https://www.kaggle.com/datasets/arielzilber/fics-2018-2020-blitz
+
+### FICS standard chess
+Contains all the games in standart chess collected from 2009 to 2023
+
+ 1. https://www.kaggle.com/datasets/arielzilber/fcis-standard-2009-to-2023
+
