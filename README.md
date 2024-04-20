@@ -55,6 +55,12 @@ make requirements
 make data
 ```
 
+Also you must install stockfish in the following method:
+```
+pip install stockfish
+```
+
+
 ## Notebooks
 The project is structured around 3 notebooks
 
@@ -63,5 +69,7 @@ The project is structured around 3 notebooks
 [2. Clustering](notebooks/P1_02_clustering.ipynb) - in this section we perform time series clustering on the chess dataset to create time series patterns
 
 [3. Classification](notebooks/P1_03_classifier.ipynb) - in the section perform classification to predict 
+
+ [3. enhancent with board data](notebooks/P1_04_moves.ipynb) - in the section we attempt to improve result from previous section using features extract from board moves 
 
  
